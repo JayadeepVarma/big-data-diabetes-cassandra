@@ -1,0 +1,28 @@
+
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm project settings
+.idea/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Video or large binary files (optional)
+*.mp4
+*.mov
+*.avi
+
+# CSV files (optional: remove if dataset needs to be included)
+# *.csv
